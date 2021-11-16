@@ -8,7 +8,7 @@ import java.math.*;
 /**
  * This interface contains all the methods to be implemented in
  * VendingMachineServiceImpl class.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public interface VendingMachineService {
