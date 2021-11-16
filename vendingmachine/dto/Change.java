@@ -4,7 +4,7 @@ import java.math.*;
 /**
  * This class represents takes in how much the user puts in,
  * and calculates and returns the change to the user.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class Change {
