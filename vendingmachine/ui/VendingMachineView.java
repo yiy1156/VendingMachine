@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * This class will show all the messages to be printed to the user
  * when running the application
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineView {
