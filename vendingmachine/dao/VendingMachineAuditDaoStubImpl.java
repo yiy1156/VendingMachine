@@ -5,7 +5,7 @@ import dao.exceptions.VendingMachinePersistenceException;
 /**
  * This is a stub implementation for VendingMachineAuditDao
  * for testing purposes.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineAuditDaoStubImpl implements VendingMachineAuditDao {
