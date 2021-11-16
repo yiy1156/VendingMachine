@@ -3,7 +3,7 @@ package dto;
 /**
  * This class contains getter and setter for 
  * int array, to be used to calculate the change in Change class
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineDetails {
