@@ -7,7 +7,7 @@ import java.util.*;
 import java.math.*;
 /**
  * This interface provides all methods needed to be implemented in VendingMachineDaoImpl
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public interface VendingMachineDao {
