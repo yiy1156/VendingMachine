@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 /**
  * This is a junit test class to test the functions of the service layer
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineServiceTest {
