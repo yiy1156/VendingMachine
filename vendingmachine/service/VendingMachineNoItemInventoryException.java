@@ -2,7 +2,7 @@ package service;
 /**
  * This class defines the VendingMachineNoItemInventoryException
  * and the error message
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineNoItemInventoryException extends Exception {
