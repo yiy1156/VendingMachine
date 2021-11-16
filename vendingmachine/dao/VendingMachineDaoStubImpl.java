@@ -8,7 +8,7 @@ import java.math.*;
 /**
  * This is a stub implementation of VendingMachineDao interface
  * for testing purposes.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineDaoStubImpl implements VendingMachineDao{
