@@ -2,7 +2,7 @@ package ui;
 /**
  * /**
  * The interface provides list of methods to be implemented for UserIOImpl
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 
