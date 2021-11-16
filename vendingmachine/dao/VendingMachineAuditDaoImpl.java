@@ -6,7 +6,7 @@ import java.time.*;
 /**
  * This class implements the methods provided in VendingMachineAuditDao interface,
  * it keeps an audit log using java DateTime API to track events of the vending machine.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineAuditDaoImpl implements VendingMachineAuditDao {
