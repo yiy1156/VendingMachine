@@ -2,7 +2,7 @@ package service;
 /**
  * This class defines the VendingMachineInsufficientFundsException
  * and the error message
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineInsufficientFundsException extends Exception {
