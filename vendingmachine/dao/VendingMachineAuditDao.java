@@ -3,7 +3,7 @@ package dao;
 import dao.exceptions.VendingMachinePersistenceException;
 /**
  * This interface provides all the methods to be implemented in VendingMachineAuditDaoImpl
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public interface VendingMachineAuditDao {
