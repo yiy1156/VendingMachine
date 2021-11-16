@@ -5,7 +5,7 @@ import java.math.*;
  * This class is the selection class that 
  * contains getters and setters for each element
  * of the vending item.
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class Selection {
