@@ -1,7 +1,7 @@
 package dao.exceptions;
 /**
  * This class defines VendingMachinePersistenceException and the error message
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachinePersistenceException extends Exception {
