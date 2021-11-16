@@ -3,7 +3,7 @@ package dto;
 import java.math.*;
 /**
  * This enum converts the dollar amount into different denominations
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public enum Denominations {
