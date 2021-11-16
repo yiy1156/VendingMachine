@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.math.*;
 /**
  * This class implements all the methods in VendingMachineDao interface
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineDaoImpl implements VendingMachineDao {
