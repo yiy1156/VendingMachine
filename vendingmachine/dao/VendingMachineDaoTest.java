@@ -2,7 +2,7 @@ package dao;
 import static org.junit.jupiter.api.Assertions.*;
 /**
  * This is a junit testing class for VendingMachineDaoImpl
- * @author Yi Yang
+ * @author yiy1156
  *
  */
 public class VendingMachineDaoTest {
